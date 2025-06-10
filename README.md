@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Joanna Kelly
 
 🎓 I'm currently pursuing a Higher Diploma in Science in Computing in Data Analytics.
+
 📊 I also have an Honours Bachelor's degree in Economics with a minor in Asian Studies.
+
 🌏 With several years of experience working as an ESL teacher, I'm a passionate communicator and keen linguist and would like to explore how language and data come together.
 
 ## 🚀 Skills and Tools
