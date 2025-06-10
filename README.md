@@ -35,4 +35,5 @@ I'm looking for any opportunities to gain experience in data analytics. I'm part
 ## 📫 Let's Connect
 
  📧 joannabkelly@gmail.com
+ 
  🌐 https://www.linkedin.com/in/joanna-kelly-230006321/
